@@ -1,0 +1,4 @@
+﻿  源.cpp
+C:\Users\Administrator\Desktop\c++pra\继承方式\继承方式\源.cpp(61,7): warning C4101: “s1”: 未引用的局部变量
+C:\Users\Administrator\Desktop\c++pra\继承方式\继承方式\源.cpp(92,7): warning C4101: “s3”: 未引用的局部变量
+  继承方式.vcxproj -> C:\Users\Administrator\Desktop\c++pra\继承方式\x64\Debug\继承方式.exe
